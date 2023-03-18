@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树操作", "二叉树操作\二叉树操作.vcxproj", "{A3C47496-EA11-4312-869C-4CD899FF854F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树叶子数和高度", "二叉树叶子数和高度\二叉树叶子数和高度.vcxproj", "{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉树非递归遍历", "二叉树非递归遍历\二叉树非递归遍历.vcxproj", "{0EDE074B-32B9-44B3-9B08-96F28E3497ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Debug|x64.ActiveCfg = Debug|x64
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Debug|x64.Build.0 = Debug|x64
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Debug|x86.Build.0 = Debug|Win32
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Release|x64.ActiveCfg = Release|x64
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Release|x64.Build.0 = Release|x64
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Release|x86.ActiveCfg = Release|Win32
+		{A3C47496-EA11-4312-869C-4CD899FF854F}.Release|x86.Build.0 = Release|Win32
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Debug|x64.ActiveCfg = Debug|x64
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Debug|x64.Build.0 = Debug|x64
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Debug|x86.Build.0 = Debug|Win32
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Release|x64.ActiveCfg = Release|x64
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Release|x64.Build.0 = Release|x64
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Release|x86.ActiveCfg = Release|Win32
+		{62A0F69F-FB59-40AD-B66D-0CA403E2BFF3}.Release|x86.Build.0 = Release|Win32
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Debug|x64.ActiveCfg = Debug|x64
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Debug|x64.Build.0 = Debug|x64
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Debug|x86.Build.0 = Debug|Win32
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Release|x64.ActiveCfg = Release|x64
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Release|x64.Build.0 = Release|x64
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Release|x86.ActiveCfg = Release|Win32
+		{0EDE074B-32B9-44B3-9B08-96F28E3497ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99427A6B-F4FD-4C15-B59E-E282A3627C4B}
+	EndGlobalSection
+EndGlobal
