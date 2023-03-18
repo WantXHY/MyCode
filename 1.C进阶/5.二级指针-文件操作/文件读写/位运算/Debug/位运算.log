@@ -1,0 +1,4 @@
+﻿  test01.c
+D:\MyCode\C进阶\二级指针-文件操作\文件读写\位运算\test01.c(24,92): warning C4474: printf: 格式字符串中传递的参数太多
+D:\MyCode\C进阶\二级指针-文件操作\文件读写\位运算\test01.c(24,92): message : 占位符和其参数预计 0 可变参数，但提供的却是 4 参数
+  位运算.vcxproj -> D:\MyCode\C进阶\二级指针-文件操作\文件读写\Debug\位运算.exe

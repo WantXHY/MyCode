@@ -1,0 +1,14 @@
+#英雄的ID
+heroId:1
+#英雄的名字
+heroName:压缩
+#英雄的攻击力
+heroAtk:1000
+#英雄的防御力
+heroDef:1000
+#英雄的简介
+heroInfo:上单
+
+
+
+

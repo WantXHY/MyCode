@@ -1,0 +1,4 @@
+﻿  lintList.c
+D:\MyCode\C进阶\10.链表\链表\链表的基本操作\lintList.c(87,39): warning C4028: 形参 1 与声明不同
+D:\MyCode\C进阶\10.链表\链表\链表的基本操作\lintList.c(176,44): warning C4028: 形参 1 与声明不同
+  链表的基本操作.vcxproj -> D:\MyCode\C进阶\10.链表\链表\Debug\链表的基本操作.exe

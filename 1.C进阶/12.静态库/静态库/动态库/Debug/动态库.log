@@ -1,0 +1,4 @@
+﻿  mydll.c
+    正在创建库 D:\MyCode\C进阶\12.静态库\静态库\Debug\动态库.lib 和对象 D:\MyCode\C进阶\12.静态库\静态库\Debug\动态库.exp
+LINK : warning LNK4232: 名称 动态库.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  动态库.vcxproj -> D:\MyCode\C进阶\12.静态库\静态库\Debug\动态库.dll

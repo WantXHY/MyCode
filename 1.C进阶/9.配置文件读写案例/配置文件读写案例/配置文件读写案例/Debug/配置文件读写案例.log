@@ -1,0 +1,8 @@
+﻿  code.c
+D:\MyCode\C进阶\9.配置文件读写案例\配置文件读写案例\配置文件读写案例\code.c(12,12): warning C4098: “codeFile”:“void”函数返回值
+  config.c
+D:\MyCode\C进阶\9.配置文件读写案例\配置文件读写案例\配置文件读写案例\config.c(43,12): warning C4098: “specConfigInfo”:“void”函数返回值
+D:\MyCode\C进阶\9.配置文件读写案例\配置文件读写案例\配置文件读写案例\config.c(50,12): warning C4098: “specConfigInfo”:“void”函数返回值
+  main.c
+  正在生成代码...
+  配置文件读写案例.vcxproj -> D:\MyCode\C进阶\9.配置文件读写案例\配置文件读写案例\Debug\配置文件读写案例.exe
